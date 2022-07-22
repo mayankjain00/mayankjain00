@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Jain</h1>
-<h3 align="center">My name is mayank Jain. I have completed my b tech(CSE) passout 2020 from teerthanker mahaveer university. I am looking for job as software engineer</h3>
+<h3 align="center">My name is mayank Jain. I have completed my b tech(CSE) passout 2020 from teerthanker mahaveer university. I am looking for job as Data Analytics/ Software Developer</h3>
 
 - 🔭 I’m currently working on [weather Forecasting project](https://github.com/mayankjain00/Python-final-project)
 
